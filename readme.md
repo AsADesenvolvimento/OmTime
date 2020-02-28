@@ -1,8 +1,6 @@
 # OmTime - Solution 
 
----
 ## Dados Referente ao projeto - 28/02/2020
----
 
 ### Integrantes
 - Gabriel Gimenez Moreira, Ra: 24437
@@ -45,3 +43,10 @@ Vamos iniciar o desenvolvimento tomando como base todos os problema envolvidos n
 Projeto elaborado para melhorar e simplificar o lançamento e verificação de horas complementares, conforme a necessidade de cada estudante, curso e instituição.
 Podendo assim retornar métricas sobre o andamento de comprimento de metas dos alunos, ao coordenador do respectivo curso.
 Tendo como base informações reais, tanto ao aluno, quanto ao coordenador. 
+
+## Empresa de implantação
+- Atualmente projeto esta sendo elaborado para solucionarmos o problema da empresa FUNDEC.
+
+# OBS
+---
+Vale lembrar que não nos responsabilizamos por infraestrutura do projeto, caso haja interece das partes em dar continuidade no projeto.
