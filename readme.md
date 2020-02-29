@@ -48,5 +48,4 @@ Tendo como base informações reais, tanto ao aluno, quanto ao coordenador.
 - Atualmente projeto esta sendo elaborado para solucionarmos o problema da empresa FUNDEC.
 
 # OBS
----
 Vale lembrar que não nos responsabilizamos por infraestrutura do projeto, caso haja interece das partes em dar continuidade no projeto.
