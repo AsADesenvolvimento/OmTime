@@ -47,5 +47,5 @@ Tendo como base informações reais, tanto ao aluno, quanto ao coordenador.
 ## Empresa de implantação
 - Atualmente projeto esta sendo elaborado para solucionarmos o problema da empresa FUNDEC.
 
-# OBS
+# Obs:
 Vale lembrar que não nos responsabilizamos por infraestrutura do projeto, caso haja interece das partes em dar continuidade no projeto.
